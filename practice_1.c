@@ -12,6 +12,12 @@
 */
 
 //Підключення функції
+/**
+* Підраховує кількість кроків від початоквої позиції до плановоного. Роз'яснює як туди добратися
+*
+* @param start1, start2, finish1, finish2 - вхідні значення
+* @param step - кількість кроків
+*/
 void chessboard(int start1, int start2, int finish1, int finish2);
 //Початок програми
 int main(){
