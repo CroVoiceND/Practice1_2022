@@ -1,7 +1,3 @@
-//Підключення бібліотек
-#include <stdio.h>
-#include <locale.h>
-#include "chessboard.h"
 /*
 * @file practic_1.c
 * @author Салій Дмитро 515а
@@ -10,6 +6,10 @@
 *           які король, що знаходиться на клітині шахової дошки з координатами kX, kY,
 *           може переміститися в клітину dX, dY.
 */
+//Підключення бібліотек
+#include <stdio.h>
+#include <locale.h>
+#include "chessboard.h"
 
 //Підключення функції
 /**
